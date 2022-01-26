@@ -1,0 +1,26 @@
+{
+  "name": "firebase-authentication-using-google_starter_worked_on",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": " node server.js"
+  },
+  "author": "sebestyenboglarkacsilla@gmail.com",
+  "license": "MIT",
+  "description": "",
+  "eslintConfig": {
+    "env": {
+      "browser": true
+    }
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^14.3.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
